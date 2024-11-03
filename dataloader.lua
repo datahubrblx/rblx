@@ -3,8 +3,8 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Define a set of allowed user IDs
 local allowedUserIds = {
-    [12345678] = true,  -- Replace these numbers with the actual user IDs
-    [87654321] = true,  -- Add more user IDs as needed
+    [4763040516] = true,
+    [1286142955] = true,
 }
 
 -- Wait until the plrData table is initialized
