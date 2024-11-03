@@ -61,4 +61,5 @@ local function setupChatListener()
     end
 end
 
+wait(1)
 setupChatListener()
